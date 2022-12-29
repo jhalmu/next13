@@ -1,5 +1,9 @@
-## Work in progress...
-# Note. This is still plain next13 code, note edited by me yet.
+# Work in progress
+
+## Note. This is still plain next13 code, note edited by me yet
+
+29.12.2022
+Added typesctipt, prisma and trpc. Cant get it work by example :(
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
